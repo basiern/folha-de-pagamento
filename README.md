@@ -1,5 +1,7 @@
 _Exercícios da II Unidade - Folha de pagamento_
 
+Exercício para composição de nota na matéria "Lógica de Programação" na Uninassau - Graças
+
 # EXERCÍCIOS ESTRUTURAS DE DECISÃO
 
 ## 📝 IF-ELSE-IF
@@ -16,4 +18,4 @@ IR = Salário bruto até 900,00 (isento de imposto), de 900,01 até 1500,00 (imp
 
 Depois, inclua o valor de FGTS que é de 11% do salário bruto (mas sem descontar do valor recebido). Por fim, calcule o salário líquido, que é o salário bruto menos os descontos. Ao final, imprima o nome do funcionário, o salário bruto, os descontos e o salário líquido.
 
-🖋 Por Eduardo Ferreira @basiern através da disciplina Lógica de Programação, no curso de ADS na Uninassau.
+🖋 Por Eduardo Ferreira @basiern
